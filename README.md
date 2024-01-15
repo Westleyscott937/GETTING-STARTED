@@ -1,2 +1,2 @@
 # GETTING-STARTED
-View of my life
+# View of my life
